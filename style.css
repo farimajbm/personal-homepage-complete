@@ -1,0 +1,26 @@
+html,
+{margin:0px}
+body {
+  font-family: arial;
+  text-align: center;
+  background: WHITE;
+  colour: white;
+}
+h1 {text-decoration:underline;}
+
+.flex{
+  display:flex;
+  margin: 40px;
+}
+img{
+  height: 500px;
+  width: 700px;
+}
+.c-site-header {
+  background-color: white;
+  color: black;
+  font-size: 24px;
+  padding: 10px;
+}
+
+}
